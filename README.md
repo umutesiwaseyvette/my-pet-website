@@ -1,5 +1,5 @@
-# Pet website
-## description
+# Pet Website
+## Description
 this project talk about what is the favorite toy and activities of a cat
 ### Authors
 * UMUTESIWASE Yvette
@@ -8,5 +8,5 @@ this project talk about what is the favorite toy and activities of a cat
 *git commit
 *git push
 *code .
-#### license
+#### License
 *copyright@ 2018
